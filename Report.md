@@ -13,8 +13,8 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Набор тест-кейсов
-* Код программы
+* Набор тест-кейсов https://docs.google.com/spreadsheets/d/1ZxEeFfZ3mTcnsVaXTf3MvnqLkroeBP9tgQNYE29HdJ8/edit?usp=sharing
+* Код программы https://docs.google.com/document/d/1__2eiDCUCLfDHZtwijHsewmAG2Dqop2AR5jVZnuOkio/edit?usp=sharing
 
 
 В качестве тестовых данных использовались данные https://www.freeformatter.com/credit-card-number-generator-validator.html:
